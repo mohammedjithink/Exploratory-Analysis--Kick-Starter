@@ -21,8 +21,7 @@ The dataset contains information about 375k + projects with following major attr
 * `country` – Where the project is located
 * `usd_goal_real` – Project fundraising goal in USD
 * `usd_pledged_real` – Amount of money pledged by the deadline in USD
-## Analysis
-The complete analysis report is published on [RPubs](https://rpubs.com/phxlumens/kickstarter).<br/>
+
 ## Get Help
 * `code/run.Rmd` – Run the code file for complete analysis
 * `code/report.Rmd` – Knit the code file to generate publishable report
